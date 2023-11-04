@@ -1,7 +1,7 @@
 export default function InputNumero({ inputRef }) {
     return (
       <div>
-        <label htmlFor="numeroInput" className="block text-green-600 mb-2">
+        <label htmlFor="numeroInput" className="block text-purple-600 mb-2">
           Ingrese un número:
         </label>
         <input

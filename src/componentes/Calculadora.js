@@ -46,10 +46,10 @@ export function Calculadora() {
   }
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-green-50">
+    <div className="flex items-center justify-center min-h-screen bg-purple-50">
       <div className="calculator bg-white p-8 rounded-lg shadow-md w-80">
-        <h1 className="text-2xl font-bold mb-4 text-center text-green-600">
-          Calculadora Simple 🤓
+        <h1 className="text-2xl font-bold mb-4 text-center text-purple-600">
+          Calculadora Simple 👾
         </h1>
         <form>
           <Resultado resultado={resultado} />

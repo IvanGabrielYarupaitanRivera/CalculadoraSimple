@@ -1,7 +1,7 @@
 export default function Resultado({ resultado }) {
     return (
       <div aria-live="polite">
-        <label htmlFor="resultado" className="block text-green-600 mb-2">
+        <label htmlFor="resultado" className="block text-purple-600 mb-2">
           Resultado:
         </label>
         <div
